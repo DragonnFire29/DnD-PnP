@@ -3,6 +3,7 @@
 	<name>DungeonsSlaver</name>
 	<comment></comment>
 	<projects>
+		<project>DragonnResources</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
